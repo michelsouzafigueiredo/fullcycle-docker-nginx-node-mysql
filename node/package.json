@@ -1,0 +1,12 @@
+{
+  "name": "fullcycle-node-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
